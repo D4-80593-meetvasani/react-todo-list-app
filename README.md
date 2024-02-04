@@ -4,10 +4,10 @@ This React todo list app utilizes hooks for dynamic frontend interactions. The a
 
 ## Screenshots
 
-![Screenshot 1](a1)
+![Screenshot 1](a1.png)
 
 
-![Screenshot 2](a2)
+![Screenshot 2](a2.png)
 
 
 ## Deployment
