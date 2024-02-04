@@ -1,3 +1,20 @@
+# React Todo List App
+
+This React todo list app utilizes hooks for dynamic frontend interactions. The application seamlessly integrates with the browser's local storage, ensuring that your to-do list persists even after refreshing the page. With smooth CRUD operations, you can effortlessly add, edit, and delete items. The user-friendly interface allows you to manage your tasks efficiently, while the visually appealing design enhances the overall experience. Stay organized and on top of your tasks with this intuitive and feature-rich todo list app!
+
+## Screenshots
+
+![Screenshot 1](a1)
+
+
+![Screenshot 2](a2)
+
+
+## Deployment
+
+Check out the deployed project on Netlify: [Project Link](https://vasani-react-todo-list.netlify.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
